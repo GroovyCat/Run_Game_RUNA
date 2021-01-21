@@ -1,4 +1,4 @@
-# Run_Game__RUNA__
+# Run_Game_RUNA
 
 Project start : the second semester of the second year
 
